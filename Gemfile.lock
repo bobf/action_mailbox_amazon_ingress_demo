@@ -76,7 +76,6 @@ GEM
     builder (3.2.4)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
-    devpack (0.2.0)
     erubi (1.9.0)
     ffi (1.13.1)
     globalid (0.4.2)
@@ -152,7 +151,7 @@ GEM
     sqlite3 (1.4.2)
     thor (1.0.1)
     thread_safe (0.3.6)
-    tzinfo (1.2.7)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
@@ -165,7 +164,6 @@ PLATFORMS
 DEPENDENCIES
   action_mailbox_amazon_ingress
   bootsnap (>= 1.4.2)
-  devpack
   listen (~> 3.2)
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.2)
